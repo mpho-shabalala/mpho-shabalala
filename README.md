@@ -53,7 +53,7 @@ While I started coding to build apps, I’ve grown to love designing systems: AP
 > Fully modular auth system using Node.js, Express, JWT, role access middleware, token blacklisting, and refresh logic.
 
 ### 🔌 [MongoDB database adapter API](https://github.com/mpho-shabalala/standalone-mongodb-adapter)
-> Modular extendable framework built to adapt in nodejs backend API, provides utility functions that can be used.
+> Modular extendable framework built to adapt in nodejs backend API, provides utility functions that can be used right away, furthermore you can extend it using the already curated framework structure.
 
 ### 🎵 Music Player App (In Progress)
 > A modular web-based music platform with genre filtering, playlist management, and server integration.
