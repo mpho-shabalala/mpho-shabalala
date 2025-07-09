@@ -49,7 +49,7 @@ While I started coding to build apps, I’ve grown to love designing systems: AP
 ### 📦 [dummy-dom](https://github.com/mpho-shabalala/dummy-dom)
 > A lightweight DOM utility library that abstracts document traversal and element creation. Ideal for clean vanilla JS UIs.
 
-### 🔐 Auth System (Private Repo)
+### 🔐 [Auth System][https://github.com/mpho-shabalala/standalone-jwt-authentication]
 > Fully modular auth system using Node.js, Express, JWT, role access middleware, token blacklisting, and refresh logic.
 
 ### 🔌 [MongoDB database adapter API](https://github.com/mpho-shabalala/standalone-mongodb-adapter)
