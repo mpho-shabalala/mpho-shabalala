@@ -1,4 +1,4 @@
-
+##  HI THERE!
 
 I'm a self-driven full-stack developer and systems thinker from South Africa 🇿🇦. I specialize in building scalable, modular, and resilient backend systems—often from scratch.
 
