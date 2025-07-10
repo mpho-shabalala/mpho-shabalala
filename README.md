@@ -2,7 +2,7 @@
 
 I'm a self-driven full-stack developer and systems thinker from South Africa. I specialize in building scalable, modular, and resilient backend systems—often from scratch.
 
-While I started coding to build apps, I’ve grown to love designing systems: APIs, databases, middlewares, abstractions, and clean code architecture that can handle real-world complexity.
+While I started coding to build apps, I’ve grown to love designing systems: APIs, databases, abstractions, frameworks, libraries and clean code architecture that can handle real-world complexity.
 
 ---
 
