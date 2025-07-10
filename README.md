@@ -17,11 +17,11 @@ While I started coding to build apps, I’ve grown to love designing systems: AP
 
 ## 🛠 Tech I Work With
 
-### 🔹 Languages & Runtime
+### 🔹 Languages
 - JavaScript (ES6+)
 - Node.js
 - Python
-- Bash
+- HTML & CSS
 
 ### 🔹 Backend
 - Express.js
@@ -31,8 +31,8 @@ While I started coding to build apps, I’ve grown to love designing systems: AP
 
 ### 🔹 Frontend
 - Vanilla JavaScript
-- Modular DOM manipulation
-- UI logic decoupling and utility libraries (e.g., [dummy-dom](https://www.npmjs.com/package/dummy-dom))
+- React
+- tailwind css
 
 ### 🔹 Tools & Workflows
 - Git & GitHub
@@ -41,6 +41,7 @@ While I started coding to build apps, I’ve grown to love designing systems: AP
 - Dotenv/config separation
 - Postman / Thunder Client
 - Docker (learning)
+- npm
 
 ---
 
