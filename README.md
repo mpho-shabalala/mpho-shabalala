@@ -9,7 +9,7 @@ While I started coding to build apps, I’ve grown to love designing systems: AP
 ## 💡 What I’m about
 
 - 💻 **Code that grows with you** – I build with reusability, clarity, and scalability in mind.
-- 🧠 **Architecture-first thinking** – My focus is on clean separation of concerns, secure token systems, role-based access, and adaptive service layers.
+- 🧠 **Architecture-first thinking** – My focus is on clean separation of concerns, secure systems, role-based access, and adaptive service layers.
 - 🔍 **Deep learning over shallow copying** – I believe in mastering the fundamentals instead of relying on frameworks to think for me.
 - 🎯 **Problem-solving with purpose** – Whether it’s a frontend component or backend token system, it must solve something *real*.
 
