@@ -71,6 +71,18 @@ While I started coding to build apps, I’ve grown to love designing systems: AP
 
 ---
 
+## 📊 GitHub Stats
+
+![Mpho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mpho-shabalala&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mpho-shabalala&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mpho-shabalala&theme=radical)
+
+![Grade Badge](https://img.shields.io/badge/GitHub%20Grade-A+-brightgreen?style=for-the-badge)
+
+---
+
 ## 🤝 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mpho-shabalala)
@@ -83,4 +95,3 @@ While I started coding to build apps, I’ve grown to love designing systems: AP
 > — My philosophy as a developer
 
 Thanks for visiting 🙌
-
