@@ -28,7 +28,7 @@ This checklist covers:
 | Python | Data processing, backend, AI/analytics | ⏳ |
 | Docker | Containerization, isolated systems | ⏳ |
 | PostgreSQL | Relational DB for transactions/orders | ❌ |
-| MongoDB | NoSQL DB for flexible prototyping | ❌ |
+| MongoDB | NoSQL DB for flexible prototyping | ✅ |
 | Prisma / Mongoose | ORM / ODM for structured DB interaction | ❌ |
 | JWT Authentication | Security, session management | ✅ |
 | Payment APIs (Stripe, PayPal, Flutterwave, Paystack) | Handling real/sandbox payments | ❌ |
