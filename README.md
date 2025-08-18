@@ -1,97 +1,149 @@
-##  HI THERE!
+# 🚀 From Coder to Domain-Specific Engineer
 
-I'm a self-driven full-stack developer and systems thinker from South Africa. I specialize in building scalable, modular, and resilient backend systems—often from scratch.
+Hi! I’m **Mpho**, a software developer transitioning from general coding projects to building **domain-focused systems** in **FinTech, E-commerce, and EdTech**.  
 
-While I started coding to build apps, I’ve grown to love designing systems: APIs, databases, abstractions, frameworks, libraries and clean code architecture that can handle real-world complexity.
-
----
-
-## 💡 What I’m about
-
-- 💻 **Code that grows with you** – I build with reusability, clarity, and scalability in mind.
-- 🧠 **Architecture-first thinking** – My focus is on clean separation of concerns, secure systems, role-based access, and adaptive service layers.
-- 🔍 **Deep learning over shallow copying** – I believe in mastering the fundamentals instead of relying on frameworks to think for me.
-- 🎯 **Problem-solving with purpose** – Whether it’s a frontend component or backend token system, it must solve something *real*.
+This repository serves as my **learning roadmap, project tracker, and toolkit checklist**, showing my journey from writing CRUD apps to crafting real-world, system-oriented solutions.  
 
 ---
 
-## 🛠 Tech I Work With
+## ✅ How to Read This Repo
 
-### 🔹 Languages
-- JavaScript (ES6+)
-- Node.js
-- Python
-- HTML & CSS
+- ✅ = Completed  
+- ⏳ = In Progress  
+- ❌ = Not Started  
 
-### 🔹 Backend
-- Express.js
-- MongoDB / Mongoose
-- JWT, cookie-based auth, secure session management
-- REST API design (adaptive + role-aware)
-
-### 🔹 Frontend
-- Vanilla JavaScript
-- React
-- tailwind css
-
-### 🔹 Tools & Workflows
-- Git & GitHub
-- Vitest (Testing)
-- ESLint, Prettier
-- Dotenv/config separation
-- Postman / Thunder Client
-- Docker (learning)
-- npm
+This checklist covers:  
+1. Tools & Toolkit  
+2. Domain-specific Systems & Core Concepts  
+3. Portfolio / Learning Actions  
 
 ---
 
-## 🚀 Featured Projects
+# 🛠 1. Tools & Toolkit Analysis
 
-### 📦 [dummy-dom](https://github.com/mpho-shabalala/dummy-dom)
-> A lightweight DOM utility library that abstracts document traversal and element creation. Ideal for clean vanilla JS UIs.
-
-### 🔐 [Auth System](https://github.com/mpho-shabalala/standalone-jwt-authentication)
-> Fully modular auth system using Node.js, Express, JWT, role access middleware, token blacklisting, and refresh logic.
-
-### 🔌 [MongoDB database adapter API](https://github.com/mpho-shabalala/standalone-mongodb-adapter)
-> Modular extendable framework built to adapt in nodejs backend API, provides utility functions that can be used right away, furthermore you can extend it using the already curated framework structure.
-
-### 🎵 Music Player App (In Progress)
-> A modular web-based music platform with genre filtering, playlist management, and server integration.
-
----
-
-## 📚 I’m Currently Exploring
-
-- Containerization (Docker)
-- DevOps workflows (CI/CD)
-- TypeScript for stricter architecture
-- Advanced MongoDB design patterns
-- Event-driven architecture (EDA)
-
----
-
-## 📊 GitHub Stats
-
-![Mpho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mpho-shabalala&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mpho-shabalala&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mpho-shabalala&theme=radical)
-
-![Grade Badge](https://img.shields.io/badge/GitHub%20Grade-A+-brightgreen?style=for-the-badge)
+| Tool / Capability | Reason / Benefit | Status |
+|------------------|----------------|--------|
+| Git & GitHub / GitLab | Version control & collaboration | ✅ |
+| Node.js & Express | Backend microservices, API creation | ✅ |
+| Python | Data processing, backend, AI/analytics | ⏳ |
+| Docker | Containerization, isolated systems | ⏳ |
+| PostgreSQL | Relational DB for transactions/orders | ❌ |
+| MongoDB | NoSQL DB for flexible prototyping | ❌ |
+| Prisma / Mongoose | ORM / ODM for structured DB interaction | ❌ |
+| JWT Authentication | Security, session management | ✅ |
+| Payment APIs (Stripe, PayPal, Flutterwave, Paystack) | Handling real/sandbox payments | ❌ |
+| Postman / Insomnia | API testing & documentation | ❌ |
+| CI/CD (GitHub Actions) | Automated tests & deployment | ❌ |
+| Testing Frameworks (Vitest, Jest, Pytest) | Unit, integration, E2E testing | ⏳ |
+| Frontend: Vanilla JS, OOP | Reusable frontend components | ✅ |
+| Hosting / Cloud (Render, Railway, Vercel, Netlify) | Deploy isolated systems | ⏳ |
+| System diagrams (Excalidraw / Miro) | Visualize architecture | ⏳ |
+| Task/Workflow Management (Trello, Linear, GitHub Projects) | Organize features & priorities | ❌ |
+| Logging / Monitoring (Logtail, PostHog) | Understand system behavior in prod | ❌ |
+| Environment Config (`.env`) | Secure config & credentials | ✅ |
 
 ---
 
-## 🤝 Let’s Connect
+# 📂 2. Domain-specific Systems & Core Concepts
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mpho-shabalala)
-- 💬 Ask me anything on [GitHub Discussions](https://github.com/mpho-shabalala)
-- 🧠 I’m open to collaboration, mentorship, or deep technical conversations
+## A. FinTech (Digital Wallet, Payments, Analytics)
+
+| Concept / Feature | Frontend | Backend | Status |
+|------------------|----------|---------|--------|
+| Dashboard: balances & transactions | ✅ | ❌ | ⏳ |
+| Peer-to-Peer Transfers | ✅ | ❌ | ⏳ |
+| Transaction Ledger (immutable) | ❌ | ❌ | ⏳ |
+| Payments integration | ❌ | ❌ | ❌ |
+| Authentication & KYC | ✅ | ✅ | ⏳ |
+| Fraud detection & rules | ❌ | ❌ | ❌ |
+| Spending analytics / charts | ✅ | ❌ | ⏳ |
+| Notifications / Alerts | ❌ | ❌ | ⏳ |
+| Role-based access | ❌ | ⏳ | ⏳ |
+
+## B. E-commerce (Marketplace / Shopping Platform)
+
+| Concept / Feature | Frontend | Backend | Status |
+|------------------|----------|---------|--------|
+| Product catalog & search filters | ✅ | ❌ | ⏳ |
+| Cart & checkout flow | ✅ | ❌ | ⏳ |
+| Order lifecycle (pending → shipped → delivered) | ❌ | ❌ | ⏳ |
+| Inventory management | ❌ | ❌ | ❌ |
+| User profiles & saved info | ✅ | ❌ | ⏳ |
+| Pricing models (discounts, coupons) | ❌ | ❌ | ❌ |
+| Admin dashboard (sales, product management) | ❌ | ❌ | ❌ |
+| Recommendation engine | ❌ | ❌ | ❌ |
+| Payment integration | ❌ | ❌ | ❌ |
+
+## C. EdTech (Courses, Quizzes, Progress Tracking)
+
+| Concept / Feature | Frontend | Backend | Status |
+|------------------|----------|---------|--------|
+| Course catalog & search | ✅ | ❌ | ⏳ |
+| Enrollment & progress tracking | ✅ | ❌ | ⏳ |
+| Quiz & auto-grading system | ❌ | ❌ | ⏳ |
+| Gamification (badges, leaderboards) | ❌ | ❌ | ❌ |
+| Instructor/admin content upload | ❌ | ❌ | ❌ |
+| Analytics (student performance, drop-offs) | ❌ | ❌ | ❌ |
+| Recommendation system | ❌ | ❌ | ❌ |
+| Mobile/Offline-friendly features | ❌ | ❌ | ⏳ |
+| Payment/subscription system | ❌ | ❌ | ❌ |
 
 ---
 
-> _“Clean code is not written by following rules. It is written by understanding systems.”_  
-> — My philosophy as a developer
+# 🚀 3. Portfolio / Learning Actions
 
-Thanks for visiting 🙌
+### Step 1: Isolated Systems (MVPs)
+- **FinTech:** Mini-wallet with transfers + dashboard  
+- **E-commerce:** Product catalog + cart system  
+- **EdTech:** Quiz + progress tracker  
+
+### Step 2: Add Domain-Specific Backend
+- DB models (PostgreSQL / MongoDB)  
+- API endpoints for CRUD, authentication, transactions  
+
+### Step 3: Add Advanced Features
+- **FinTech:** Fraud rules, analytics dashboards, notifications  
+- **E-commerce:** Order lifecycle, inventory management, discounts  
+- **EdTech:** Gamification, recommendation, analytics  
+
+### Step 4: Deploy & Test
+- Containerize with Docker → deploy on Render / Railway  
+- Add testing (unit + integration)  
+- Use CI/CD to automate deployment & test runs  
+
+### Step 5: Combine Systems
+- Integrate wallet with e-commerce checkout  
+- Add course subscription payments (FinTech + EdTech)  
+- Unified dashboard across domains  
+
+---
+
+# 📚 References / Inspiration
+
+**FinTech:**  
+- [Chipper Cash](https://chippercash.com)  
+- [Stripe API](https://stripe.com/docs/api)  
+- [PayPal](https://developer.paypal.com/docs/api/overview/)
+
+**E-commerce:**  
+- [Takealot](https://www.takealot.com)  
+- [Shopify](https://www.shopify.com)  
+- [Amazon](https://www.amazon.com)
+
+**EdTech:**  
+- [Khan Academy](https://www.khanacademy.org)  
+- [Coursera](https://www.coursera.org)  
+- [Udemy](https://www.udemy.com)
+
+---
+
+# ⚡ Final Notes
+
+This repo represents my **journey from a general coder to a domain-aware engineer and future systems architect**.  
+
+- **Core Principle:** Code = fuel; Domain knowledge = direction.  
+- **Goal:** Build isolated, reusable systems → connect them → produce real-world, sector-ready applications.  
+
+Feel free to browse, replicate, or learn from this roadmap.  
+
+---
