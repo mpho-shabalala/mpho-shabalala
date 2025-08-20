@@ -29,7 +29,7 @@ This checklist covers:
 | Docker | Containerization, isolated systems | ⏳ |
 | PostgreSQL, MySQL | Relational DB for transactions/orders | ⏳ |
 | MongoDB | NoSQL DB for flexible prototyping | ✅ |
-| Prisma / Mongoose | ORM / ODM for structured DB interaction | ❌ |
+| Prisma / Mongoose | ORM / ODM for structured DB interaction | ⏳ |
 | JWT Authentication | Security, session management | ✅ |
 | Payment APIs (Stripe, PayPal, Flutterwave, Paystack) | Handling real/sandbox payments | ❌ |
 | Postman / Insomnia | API testing & documentation | ✅ |
