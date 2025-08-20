@@ -32,10 +32,10 @@ This checklist covers:
 | Prisma / Mongoose | ORM / ODM for structured DB interaction | ❌ |
 | JWT Authentication | Security, session management | ✅ |
 | Payment APIs (Stripe, PayPal, Flutterwave, Paystack) | Handling real/sandbox payments | ❌ |
-| Postman / Insomnia | API testing & documentation | ❌ |
+| Postman / Insomnia | API testing & documentation | ✅ |
 | CI/CD (GitHub Actions) | Automated tests & deployment | ❌ |
 | Testing Frameworks (Vitest, Jest, Pytest) | Unit, integration, E2E testing | ⏳ |
-| Frontend: Vanilla JS, OOP, ReactJS | Reusable frontend components | ✅ |
+| Frontend: Vanilla JS, OOP, ReactJS, Typescript | Reusable frontend components | ✅ |
 | Hosting / Cloud (Render, Railway, Vercel, Netlify) | Deploy isolated systems | ⏳ |
 | System diagrams (Excalidraw / Miro) | Visualize architecture | ⏳ |
 | Task/Workflow Management (Trello, Linear, GitHub Projects) | Organize features & priorities | ❌ |
