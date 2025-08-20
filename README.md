@@ -50,26 +50,26 @@ This checklist covers:
 
 | Concept / Feature | Frontend | Backend | Status |
 |------------------|----------|---------|--------|
-| Dashboard: balances & transactions | ✅ | ❌ | ⏳ |
-| Peer-to-Peer Transfers | ✅ | ❌ | ⏳ |
-| Transaction Ledger (immutable) | ❌ | ❌ | ⏳ |
+| Dashboard: balances & transactions | ❌ | ❌ | ❌ |
+| Peer-to-Peer Transfers | ❌ | ❌ | ❌ |
+| Transaction Ledger (immutable) | ❌ | ❌ | ❌ |
 | Payments integration | ❌ | ❌ | ❌ |
 | Authentication & KYC | ✅ | ✅ | ⏳ |
 | Fraud detection & rules | ❌ | ❌ | ❌ |
-| Spending analytics / charts | ✅ | ❌ | ⏳ |
-| Notifications / Alerts | ❌ | ❌ | ⏳ |
-| Role-based access | ❌ | ⏳ | ⏳ |
+| Spending analytics / charts | ✅ | ❌ | ❌ |
+| Notifications / Alerts | ❌ | ✅ | ⏳ |
+| Role-based access | ✅ | ✅ | ✅ |
 
 ## B. E-commerce (Marketplace / Shopping Platform)
 
 | Concept / Feature | Frontend | Backend | Status |
 |------------------|----------|---------|--------|
-| Product catalog & search filters | ✅ | ❌ | ⏳ |
+| Product catalog & search filters | ✅ | ✅ | ✅ |
 | Cart & checkout flow | ✅ | ❌ | ⏳ |
-| Order lifecycle (pending → shipped → delivered) | ❌ | ❌ | ⏳ |
+| Order lifecycle (pending → shipped → delivered) | ❌ | ❌ | ❌ |
 | Inventory management | ❌ | ❌ | ❌ |
-| User profiles & saved info | ✅ | ❌ | ⏳ |
-| Pricing models (discounts, coupons) | ❌ | ❌ | ❌ |
+| User profiles & saved info | ✅ | ✅ | ✅ |
+| Pricing models (discounts, coupons) | ✅ | ⏳ | ⏳ |
 | Admin dashboard (sales, product management) | ❌ | ❌ | ❌ |
 | Recommendation engine | ❌ | ❌ | ❌ |
 | Payment integration | ❌ | ❌ | ❌ |
@@ -79,13 +79,13 @@ This checklist covers:
 | Concept / Feature | Frontend | Backend | Status |
 |------------------|----------|---------|--------|
 | Course catalog & search | ✅ | ❌ | ⏳ |
-| Enrollment & progress tracking | ✅ | ❌ | ⏳ |
-| Quiz & auto-grading system | ❌ | ❌ | ⏳ |
+| Enrollment & progress tracking | ❌ | ❌ | ❌ |
+| Quiz & auto-grading system | ❌ | ❌ | ❌ |
 | Gamification (badges, leaderboards) | ❌ | ❌ | ❌ |
 | Instructor/admin content upload | ❌ | ❌ | ❌ |
 | Analytics (student performance, drop-offs) | ❌ | ❌ | ❌ |
 | Recommendation system | ❌ | ❌ | ❌ |
-| Mobile/Offline-friendly features | ❌ | ❌ | ⏳ |
+| Mobile/Offline-friendly features | ❌ | ❌ | ❌ |
 | Payment/subscription system | ❌ | ❌ | ❌ |
 
 ---
